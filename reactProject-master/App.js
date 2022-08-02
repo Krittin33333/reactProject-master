@@ -27,8 +27,9 @@ const App = () => {
       {/* <TouchablePractice/> */}
        
        {/* <Dynamicstyle/> */}
-       <ModelExample/>
-       {/* <ModalPractice/> */}
+       {/* <ModelExample/> */}
+       <ModalPractice/>
+       
     </View>
   )
 }
